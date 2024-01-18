@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+http://uteplenie34.ru/
+
+
